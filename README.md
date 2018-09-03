@@ -1,5 +1,8 @@
 # Intro-To-Data-Science
-Homework
+
+Series of Homework problems for Intro-To-Data-Science graduate-level program.
+
+HOMEWORK-1
 Problem-1: Implementation of bubble sort.
 Problem-2: Numpy matrix multiplication.
 Problem-3: Page Rank implementation.
